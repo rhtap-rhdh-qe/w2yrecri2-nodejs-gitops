@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: w2yrecri2-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/w2yrecri2-nodejs
